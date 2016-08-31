@@ -7,9 +7,7 @@ The files in this repository are for graphene device characterization project fo
 in  Physics Department of Istanbul Technical University, Istanbul with the facilities of Nanoscale Surface Science Laboratory
 with the Supervisor of Prof. Oguzhan Gurlu. The project is suported by Tubitak 1003 project with the grant number of 114F036.
 
-In this project an Arduino is used for measuring currents and a Tektronix made oscillator is for reading voltage across a four
-probe graphene device. The voltage is supplied via Keithley 2400 sourcemeter. The Sourcemeter is controlled via LabView with
-specific instrument drivers. Oscilloscope and Arduino Data read via Labview with specific instrument driver for 
+In this project an Arduino is used for measuring currents and a Tektronix made oscillator is for reading voltage across a four probe graphene device. The voltage is supplied via Keithley 2400 sourcemeter. The Sourcemeter is controlled via LabView with specific instrument drivers. Oscilloscope and Arduino Data read via Labview with specific instrument driver for 
 oscilloscope and LINX drivers for Arduino. In Labview the Current-Voltage graphs plotted for four separate probes.
 
 In order to read the current flowing through the sample and I/V converter is made with precise shunt resistors. After that
